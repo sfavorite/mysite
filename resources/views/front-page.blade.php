@@ -26,7 +26,8 @@
             <h2>About</h2>
             <hr />
             <h4>I enjoy: Working with Pytorch, sklearn, Nextcloud, and pfSense</h4>
-            <h4>Building web-sites using: Laravel, Falcon and Django</h4>
+            <h4>Building web-sites using: Laravel, Falcon - worlds worst front-end designer</h4>
+
 
         </div>
 
