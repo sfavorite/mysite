@@ -1,0 +1,76 @@
+@import url(https://fonts.googleapis.com/css?family=EB+Garamond);
+
+html {
+  scroll-behavior: smooth;
+}
+
+html,
+body {
+   height: 100%;
+   font-family: "EB Garamond", Helvetica, Arial, sans-serif;
+}
+
+.flex-container {
+   display: flex;
+   height: 100%;
+}
+
+.nav {
+   flex: 1 1 75%;
+}
+
+.sidenav {
+   /*position: absolute;
+   flex-direction: column;
+   align-self: flex-end;
+    */
+   margin-bottom: 100px;
+}
+
+/* No bullets on the menu */
+.sidenav ul {
+   list-style-type: none;
+}
+
+a:link {
+   color: black;
+}
+
+/* visited link */
+a:visited {
+   color: black;
+}
+
+/* mouse over link */
+#nav-list li a:hover {
+    font-style: italic;
+    border: black 2px;
+}
+
+.active {
+   font-style: italic;
+   background-color: red;
+}
+
+.main {
+   flex: 1 1 75%;
+   margin-right: 50px;
+   margin-top: 100px;
+}
+
+.section {
+   height: 80vh; /* Make each section 80% of the vertical height */
+
+}
+
+div.right {
+   text-align: right;
+}
+
+.left {
+   text-align: left;
+}
+
+.text-name {
+   font-size: 7vw;
+}
