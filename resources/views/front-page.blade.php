@@ -19,7 +19,7 @@
         <div class='section'>
             <h2 class='text-name'>SCOT FAVORITE</h2>
             <hr />
-            <h2>Consultant: Open Source, Application Development, & Artificial Intelligence</h2>
+            <h2>Open Source, Application Development, & Artificial Intelligence</h2>
         </div>
 
         <div id='about' class='section'>
