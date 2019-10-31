@@ -17,7 +17,7 @@
 
     <div class="main right">
         <div class='section'>
-            <h2 class='text-name'>A FAVORITE BLOG</h2>
+            <h2 class='text-name'>FAVORITE BLOG</h2>
             <hr />
             <h2>Open Source, Application Development, & Artificial Intelligence</h2>
         </div>
