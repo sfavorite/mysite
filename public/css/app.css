@@ -10722,3 +10722,11 @@ div.right {
   font-size: 4vw;
 }
 
+/* 768px wide or less: */
+
+@media screen and (max-width: 768px) {
+  .text-name {
+    font-size: 7vw;
+  }
+}
+
