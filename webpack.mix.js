@@ -11,6 +11,12 @@ const mix = require('laravel-mix');
  |
  */
 
+mix.options({
+    hmrOptions: {
+	host: '192.168.1.21',
+	port: 8080
+    }
+});
 
 mix.js('resources/js/app.js', 'public/js')
     .sass('resources/sass/app.scss', 'public/css').sourceMaps();
