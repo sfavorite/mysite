@@ -3,7 +3,7 @@ import VueRouter from 'vue-router';
 
 
 require('./bootstrap');
-require('./menu');
+//require('./menu');
 //require('./router.js');
 
 window.Vue = require('vue');
