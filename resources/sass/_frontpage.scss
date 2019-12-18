@@ -10,6 +10,10 @@ body {
    font-family: "EB Garamond", Helvetica, Arial, sans-serif;
 }
 
+body {
+    font-size: 1em;
+}
+
 #app {
     height: 100%;
 }
@@ -63,7 +67,7 @@ a:visited {
 }
 
 .section {
-   height: 80vh; /* Make each section 80% of the vertical height */
+   height: 40vh; /* Make each section 80% of the vertical height */
 
 }
 

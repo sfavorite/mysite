@@ -1,5 +1,5 @@
-<nav class="nav d-none d-sm-block col-md-3">
-        <div id="navbar" class="d-flex flex-column fixed-bottom sidenav">
+<nav class="nav d-none d-sm-block col-sm-2 col-md-2">
+        <div id="navbar" class="d-flex flex-column fixed-bottom sidenav" >
             <ul id="nav-list nav navbar-nav" class="navlist">
 
              <li class=""><router-link to='/' exact><h3>Home</h3></router-link></li>
